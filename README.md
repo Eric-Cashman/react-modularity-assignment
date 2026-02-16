@@ -160,9 +160,6 @@ import { ContentB } from './components/ContentB';
 - Jest
 - JavaScript ES6+
 
-## Video Demonstration
-[Link to YouTube video will be added here]
-
 ## Acknowledgments
 - React Documentation
 - Testing Library Documentation
